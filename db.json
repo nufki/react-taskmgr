@@ -7,18 +7,13 @@
     },
     {
       "id": "2",
-      "name": "Build a Task Manager",
+      "name": "Build a Task Managers",
       "description": "Create a task management app with React"
     },
     {
       "id": "32ba",
       "name": "test 1",
       "description": "asdfasdf"
-    },
-    {
-      "id": "dc87",
-      "name": "test 2",
-      "description": "asdfasdffdsasdsa"
     }
   ]
 }
